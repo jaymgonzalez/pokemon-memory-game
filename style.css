@@ -1,0 +1,15 @@
+#grid {
+    height: 340px;
+    width: 480px;
+}
+
+.not-active {
+    pointer-events: none;
+}
+
+html {
+    background-image: url('images/background.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
